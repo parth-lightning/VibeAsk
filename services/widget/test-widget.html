@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>St. Mary's College - Widget Test</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        padding: 20px;
+      }
+
+      .college-header {
+        background: white;
+        padding: 30px;
+        border-radius: 15px;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+        max-width: 1200px;
+        margin: 0 auto 30px;
+      }
+
+      .college-logo {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+
+      h1 {
+        color: #333;
+        font-size: 2.5em;
+        text-align: center;
+        margin-bottom: 10px;
+      }
+
+      .tagline {
+        text-align: center;
+        color: #666;
+        font-size: 1.1em;
+        font-style: italic;
+      }
+
+      nav {
+        background: #667eea;
+        padding: 15px;
+        border-radius: 10px;
+        margin: 20px auto;
+        max-width: 1200px;
+        text-align: center;
+      }
+
+      nav a {
+        color: white;
+        text-decoration: none;
+        padding: 10px 20px;
+        margin: 0 10px;
+        border-radius: 5px;
+        transition: background 0.3s;
+      }
+
+      nav a:hover {
+        background: rgba(255, 255, 255, 0.2);
+      }
+
+      .content-section {
+        background: white;
+        padding: 40px;
+        border-radius: 15px;
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+        max-width: 1200px;
+        margin: 0 auto 30px;
+      }
+
+      h2 {
+        color: #667eea;
+        margin-bottom: 20px;
+        font-size: 2em;
+      }
+
+      p {
+        line-height: 1.8;
+        color: #555;
+        margin-bottom: 15px;
+        font-size: 1.1em;
+      }
+
+      .departments {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+        margin-top: 30px;
+      }
+
+      .department-card {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        padding: 25px;
+        border-radius: 10px;
+        text-align: center;
+        transition: transform 0.3s;
+      }
+
+      .department-card:hover {
+        transform: translateY(-5px);
+      }
+
+      .cta {
+        background: #667eea;
+        color: white;
+        padding: 15px 30px;
+        border-radius: 25px;
+        text-decoration: none;
+        display: inline-block;
+        margin-top: 20px;
+        transition: background 0.3s;
+      }
+
+      .cta:hover {
+        background: #764ba2;
+      }
+
+      footer {
+        text-align: center;
+        color: white;
+        padding: 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="college-header">
+      <div class="college-logo">
+        <h1>🎓 St. Mary's College</h1>
+        <p class="tagline">Excellence in Education Since 1895</p>
+      </div>
+    </div>
+
+    <nav>
+      <a href="#about">About</a>
+      <a href="#admissions">Admissions</a>
+      <a href="#programs">Programs</a>
+      <a href="#campus">Campus Life</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="content-section" id="about">
+      <h2>About St. Mary's College</h2>
+      <p>
+        St. Mary's College is a premier institution of higher learning,
+        committed to providing quality education and fostering holistic
+        development of students. With over 125 years of excellence, we have
+        produced graduates who have made significant contributions to society.
+      </p>
+      <p>
+        Our beautiful 50-acre campus provides a serene environment for learning,
+        with state-of-the-art facilities, modern classrooms, well-equipped
+        laboratories, and an extensive library.
+      </p>
+    </div>
+
+    <div class="content-section" id="programs">
+      <h2>Academic Programs</h2>
+      <div class="departments">
+        <div class="department-card">
+          <h3>Engineering</h3>
+          <p>Computer Science, Mechanical, Electrical</p>
+        </div>
+        <div class="department-card">
+          <h3>Sciences</h3>
+          <p>Physics, Chemistry, Biology, Mathematics</p>
+        </div>
+        <div class="department-card">
+          <h3>Arts & Humanities</h3>
+          <p>Literature, History, Philosophy, Languages</p>
+        </div>
+        <div class="department-card">
+          <h3>Commerce</h3>
+          <p>Accounting, Finance, Business Management</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="content-section" id="admissions">
+      <h2>Admissions Open</h2>
+      <p>
+        Applications are now being accepted for the upcoming academic year. We
+        offer undergraduate and postgraduate programs across various
+        disciplines.
+      </p>
+      <p>
+        Join our diverse community of scholars and experience education that
+        transforms lives.
+      </p>
+      <a href="#" class="cta">Apply Now</a>
+      <a href="#" class="cta">Download Prospectus</a>
+    </div>
+
+    <footer>
+      <p>&copy; 2024 St. Mary's College. All rights reserved.</p>
+      <p>123 College Road, University Town, ST 12345</p>
+    </footer>
+
+    <!-- 
+    ============================================
+    WIDGET INTEGRATION - Auto-initialization
+    ============================================
+    Just add these two lines to any webpage!
+    Load from dist folder (relative path)
+    
+    Options:
+    - data-college-id (required): Your college identifier
+    - data-api-endpoint (optional): Override API URL (defaults to production when VITE_USE_PRODUCTION_API=true)
+    -->
+    <link rel="stylesheet" href="./dist/widget.css" />
+    <script
+      src="./dist/widget.js"
+      data-college-id="gpc-barmer"
+      data-api-endpoint="http://localhost:3000/api/chat"
+    ></script>
+  </body>
+</html>

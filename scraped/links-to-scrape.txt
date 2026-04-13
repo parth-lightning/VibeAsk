@@ -1,0 +1,92 @@
+# GPC Barmer - Links to Scrape & Upload
+# =====================================
+
+## WEBSITE PAGES TO SCRAPE (Use "Website Content" tab)
+## ---------------------------------------------------
+## Scrape these pages and add via Website Content tab with their URLs for citations
+
+# About Us Section
+
+https://hte.rajasthan.gov.in/college/gpcbarmer/principal-s-message
+https://hte.rajasthan.gov.in/college/gpcbarmer/vision-mission-php
+https://hte.rajasthan.gov.in/college/gpcbarmer/committee
+
+# Academic Section
+https://hte.rajasthan.gov.in/college/gpcbarmer/admission
+
+# Department Pages
+https://hte.rajasthan.gov.in/college/gpcbarmer/department
+https://hte.rajasthan.gov.in/college/gpcbarmer/dept-of-electrical-engg
+https://hte.rajasthan.gov.in/college/gpcbarmer/dept-of-mechanical-engg
+https://hte.rajasthan.gov.in/college/gpcbarmer/dept-of-electronics-engg
+https://hte.rajasthan.gov.in/college/gpcbarmer/dept-of-chemical-engg
+https://hte.rajasthan.gov.in/college/gpcbarmer/humanities
+
+# Placement & Student Section
+https://hte.rajasthan.gov.in/college/gpcbarmer/placement
+https://hte.rajasthan.gov.in/college/gpcbarmer/modelpaper
+https://hte.rajasthan.gov.in/college/gpcbarmer/elpaper
+https://hte.rajasthan.gov.in/college/gpcbarmer/final-year
+https://hte.rajasthan.gov.in/college/gpcbarmer/polytechnicshiksha
+https://hte.rajasthan.gov.in/college/gpcbarmer/standardclub
+
+# Administration
+https://hte.rajasthan.gov.in/college/gpcbarmer/mandatorydisclosures
+
+
+## PDF FILES TO UPLOAD (Use "Forms & Notices" tab)
+## ------------------------------------------------
+## Download these PDFs and upload via Forms & Notices tab with source URL
+
+# Fee Structure
+http://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/Fees%20Order.pdf
+
+# Time Tables
+https://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/Time%20table%20gpc%20barmer%20odd%20sem.pdf
+https://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/TT%202%204%206%20.pdf
+https://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/Final-TT-AUG2024-25.pdf
+https://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/Time%20Table%20New%202023-24%20.pdf
+https://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/Time%20Table%202023-24%20.pdf
+https://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/Time%20Table%20Non%20Engg.pdf
+http://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/TIME%20TABLE%20EVEN%20SEM%202022-23.pdf
+
+# Internship
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/announcement/Internship%20.pdf
+
+# Events & Programs
+http://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/tarang%202022.pdf
+http://hte.rajasthan.gov.in/dept/dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/doc/Conference%208th%20April.pdf
+
+# Press Notes
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/press_notes/EAP%20Press%20Note%2017-11-2022.pdf
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/press_notes/press%20note%2011-05-2022.pdf
+
+# Notices
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/news/Time%20Chnage.pdf
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/news/time%20table%20updated.pdf
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/news/FIRST%20TEST%20NOTICE.pdf
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/news/National%20Science%20Day%202023%20Office%20Order.pdf
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/news/VIDYA%20SAMBAL%20YOJANA%20VIGYAPTI.pdf
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/news/TT%203rd-5th%20Sem%202022-23.pdf
+https://hte.rajasthan.gov.in/dept//dte/board_of_technical_education,_rajasthan/government_polytechnic_college,_barmer/uploads/images/news/ME%20SCA%20Expert%20Lecture.pdf
+
+
+## EXTERNAL LINKS (Reference only - don't scrape)
+## -----------------------------------------------
+# Academic Calendar (External)
+http://techedu.rajasthan.gov.in/bter/Academic_calendar.htm
+
+# Grievance System (External)
+https://sampark.rajasthan.gov.in/
+
+# AICTE Feedback (External)
+https://www.aicte-india.org/feedback/index.php
+
+
+## COLLEGE CONTACT INFO (Add via Text Content tab)
+## ------------------------------------------------
+# Address: NH-68, Jaisalmer Road, Barmer (Raj.) Pin code 344001
+# Email: gpc.barmer@rajasthan.gov.in
+# Fax: 02982-220634
+# Nodal Officer: Mr. Vasu Dev (Lecturer Computer Science) - 8290984810
+# Principal: Shri Kamal Panwar
