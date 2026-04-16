@@ -7,7 +7,7 @@
 ### Team
 
 - **Team Name**: Dhurandhar
-- **Members**: Shrivardhan Patil, Parth Patil, Sudarshan Patil, Pruthviraj Pawar
+- **Team Members**: Shrivardhan Patil, Parth Patil, Sudarshan Patil, Pruthviraj Pawar
 
 ---
 
@@ -476,5 +476,6 @@ For questions, bug reports, or feature requests:
 ---
 
 **Made with ❤️ by the Dhurandhar Team**
+ 
 
 _Transforming learning from fragmented to personalized, from passive to active._
